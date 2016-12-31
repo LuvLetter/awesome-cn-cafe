@@ -188,6 +188,26 @@
           30.267
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "名称": "Starbucks 嘉里中心",
+        "下载速度": "1 Mbps",
+        "上传速度": "0.7 Mbps",
+        "Speedtest 链接": "http://www.speedtest.net/my-result/5926260173",
+        "参考价格": "24-50 元",
+        "评论 (@61)": "嘉里中心边上，人很多，座位很少。",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.15781402587892,
+          30.261365415649188
+        ]
+      }
     }
   ]
 }
